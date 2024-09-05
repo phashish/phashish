@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @phashish
 - 👀 I’m interested in Linux, DevOps, Kubernetes, Cloud, Python
-- 🌱 I’m currently learning Python Frontend
+- 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on anything (almost)
 - 📫 How to reach me https://t.ly/A6ndk
 - ⚡ Fun fact: ...
